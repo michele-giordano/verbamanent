@@ -35,6 +35,7 @@ git clone https://github.com/giordebug/verbamanent.git
 cd verbamanent
 pip install -e .[all,dev,notebooks]
 
+---
 
 ## 🛠 Key Features
 
@@ -45,8 +46,12 @@ pip install -e .[all,dev,notebooks]
 - Voice cloning and voice conversion
 - CLI, Python API, and Docker support
 
+---
+
 ## 🔖 License
 This project is distributed under the Mozilla Public License v2.0 (MPL-2.0).
+
+---
 
 ## 📬 Contact
 For questions, contributions, or feedback, feel free to open an issue or contact the current maintainer directly.
