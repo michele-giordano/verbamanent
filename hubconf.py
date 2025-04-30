@@ -13,7 +13,7 @@ def tts(model_name='tts_models/en/ljspeech/tacotron2-DCA',
     """TTS entry point for PyTorch Hub that provides a Synthesizer object to synthesize speech from a give text.
 
     Example:
-        >>> synthesizer = torch.hub.load('coqui-ai/TTS', 'tts', source='github')
+        >>> synthesizer = torch.hub.load('giordebug/verbamanent', 'tts', source='github')
         >>> wavs = synthesizer.tts("This is a test! This is also a test!!")
             wavs - is a list of values of the synthesized speech.
 
@@ -42,5 +42,5 @@ def tts(model_name='tts_models/en/ljspeech/tacotron2-DCA',
 
 
 if __name__ == '__main__':
-    synthesizer = torch.hub.load('coqui-ai/TTS:dev', 'tts', source='github')
+    synthesizer = torch.hub.load('giordebug/verbamanent:main', 'tts', source='github')
     synthesizer.tts("This is a test!")

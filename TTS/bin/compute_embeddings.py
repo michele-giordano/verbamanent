@@ -114,13 +114,13 @@ if __name__ == "__main__":
         "--model_path",
         type=str,
         help="Path to model checkpoint file. It defaults to the released speaker encoder.",
-        default="https://github.com/coqui-ai/TTS/releases/download/speaker_encoder_model/model_se.pth.tar",
+        default="https://github.com/giordebug/verbamanent/releases/download/speaker_encoder_model/model_se.pth.tar",
     )
     parser.add_argument(
         "--config_path",
         type=str,
         help="Path to model config file. It defaults to the released speaker encoder config.",
-        default="https://github.com/coqui-ai/TTS/releases/download/speaker_encoder_model/config_se.json",
+        default="https://github.com/giordebug/verbamanent/releases/download/speaker_encoder_model/config_se.json",
     )
     parser.add_argument(
         "--config_dataset_path",

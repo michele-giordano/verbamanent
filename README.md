@@ -8,9 +8,6 @@
 
 ## ✨ Project Goals
 
-VerbaManent was initiated as a fork of the discontinued Coqui-TTS project.  
-Its purpose is to:
-
 - preserve access to a functional and free TTS engine
 - ensure long-term maintainability and stability
 - refactor and modularize the codebase for clarity and reuse
@@ -20,9 +17,8 @@ Its purpose is to:
 
 ## 🧩 Current Status
 
-This repository is a direct fork of the `dev` branch of Coqui-TTS, with branding and references updated.  
-Functionality and compatibility with pre-trained models are fully preserved.  
-Codebase restructuring and architectural improvements will begin in future versions.
+- Functionality and compatibility with pre-trained models.
+- Codebase restructuring and architectural improvements will begin in future versions.
 
 ---
 

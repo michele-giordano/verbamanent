@@ -455,7 +455,7 @@
                 "glow-tts": {
                     "github_rls_url": "https://coqui.gateway.scarf.sh/v0.6.1_models/tts_models--it--mai_female--glow-tts.zip",
                     "default_vocoder": null,
-                    "description": "GlowTTS model as explained on https://github.com/coqui-ai/TTS/issues/1148.",
+                    "description": "GlowTTS model as explained on https://github.com/giordebug/verbamanent/issues/1148.",
                     "author": "@nicolalandro",
                     "license": "apache 2.0",
                     "commit": null
@@ -463,7 +463,7 @@
                 "vits": {
                     "github_rls_url": "https://coqui.gateway.scarf.sh/v0.6.1_models/tts_models--it--mai_female--vits.zip",
                     "default_vocoder": null,
-                    "description": "GlowTTS model as explained on https://github.com/coqui-ai/TTS/issues/1148.",
+                    "description": "GlowTTS model as explained on https://github.com/giordebug/verbamanent/issues/1148.",
                     "author": "@nicolalandro",
                     "license": "apache 2.0",
                     "commit": null
@@ -473,7 +473,7 @@
                 "glow-tts": {
                     "github_rls_url": "https://coqui.gateway.scarf.sh/v0.6.1_models/tts_models--it--mai_male--glow-tts.zip",
                     "default_vocoder": null,
-                    "description": "GlowTTS model as explained on https://github.com/coqui-ai/TTS/issues/1148.",
+                    "description": "GlowTTS model as explained on https://github.com/giordebug/verbamanent/issues/1148.",
                     "author": "@nicolalandro",
                     "license": "apache 2.0",
                     "commit": null
@@ -481,7 +481,7 @@
                 "vits": {
                     "github_rls_url": "https://coqui.gateway.scarf.sh/v0.6.1_models/tts_models--it--mai_male--vits.zip",
                     "default_vocoder": null,
-                    "description": "GlowTTS model as explained on https://github.com/coqui-ai/TTS/issues/1148.",
+                    "description": "GlowTTS model as explained on https://github.com/giordebug/verbamanent/issues/1148.",
                     "author": "@nicolalandro",
                     "license": "apache 2.0",
                     "commit": null
@@ -709,7 +709,7 @@
                     "github_rls_url": "https://coqui.gateway.scarf.sh/v0.10.1_models/tts_models--ca--custom--vits.zip",
                     "default_vocoder": null,
                     "commit": null,
-                    "description": " It is trained from zero with 101460 utterances consisting of 257 speakers, approx 138 hours of speech. We used three datasets;\nFestcat and Google Catalan TTS (both TTS datasets) and also a part of Common Voice 8. It is trained with TTS v0.8.0.\nhttps://github.com/coqui-ai/TTS/discussions/930#discussioncomment-4466345",
+                    "description": " It is trained from zero with 101460 utterances consisting of 257 speakers, approx 138 hours of speech. We used three datasets;\nFestcat and Google Catalan TTS (both TTS datasets) and also a part of Common Voice 8. It is trained with TTS v0.8.0.\nhttps://github.com/giordebug/verbamanent/discussions/930#discussioncomment-4466345",
                     "author": "@gullabi",
                     "license": "CC-BY-4.0"
                 }

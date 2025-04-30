@@ -1,20 +1,29 @@
 cff-version: 1.2.0
-message: "If you want to cite 🐸💬, feel free to use this (but only if you loved it 😊)"
-title: "Coqui TTS"
-abstract: "A deep learning toolkit for Text-to-Speech, battle-tested in research and production"
-date-released: 2021-01-01
+title: VerbaManent
+message: "If you want to cite \U0001F5E3 VerbaManent , feel free to use this!"
+type: software
 authors:
-  - family-names: "Eren"
-    given-names: "Gölge"
-  - name: "The Coqui TTS Team"
-version: 1.4
-doi: 10.5281/zenodo.6334862
-license: "MPL-2.0"
-url: "https://www.coqui.ai"
-repository-code: "https://github.com/coqui-ai/TTS"
+  - family-names: Giordano
+    given-names: Michele
+  - name: Michele Giordano
+repository-code: 'https://github.com/giordebug/verbamanent'
+url: 'https://github.com/giordebug/verbamanent'
+abstract: >-
+  Words remain. 
+
+  VerbaManent is an actively maintained open-source neural
+  text-to-speech (TTS) engine.
+
+  It continues the work of Coqui-TTS with a renewed focus on
+  quality, accessibility, and performance on consumer-grade
+  hardware.
 keywords:
   - machine learning
   - deep learning
   - artificial intelligence
   - text to speech
   - TTS
+  - verbamanent
+license: MPL-2.0
+version: 1
+date-released: '2025-05-08'

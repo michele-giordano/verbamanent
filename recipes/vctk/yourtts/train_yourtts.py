@@ -83,9 +83,9 @@ DATASETS_CONFIG_LIST = [vctk_config]
 
 ### Extract speaker embeddings
 SPEAKER_ENCODER_CHECKPOINT_PATH = (
-    "https://github.com/coqui-ai/TTS/releases/download/speaker_encoder_model/model_se.pth.tar"
+    "https://github.com/giordebug/verbamanent/releases/download/speaker_encoder_model/model_se.pth.tar"
 )
-SPEAKER_ENCODER_CONFIG_PATH = "https://github.com/coqui-ai/TTS/releases/download/speaker_encoder_model/config_se.json"
+SPEAKER_ENCODER_CONFIG_PATH = "https://github.com/giordebug/verbamanent/releases/download/speaker_encoder_model/config_se.json"
 
 D_VECTOR_FILES = []  # List of speaker embeddings/d-vectors to be used during the training
 

@@ -113,7 +113,7 @@
 
     Note that different models have different metrics, visuals and outputs.
 
-    You should also check the [FAQ page](https://github.com/coqui-ai/TTS/wiki/FAQ) for common problems and solutions
+    You should also check the [FAQ page](https://github.com/giordebug/verbamanent/wiki/FAQ) for common problems and solutions
     that occur in a training.
 
 7. Use your best model for inference.

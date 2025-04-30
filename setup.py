@@ -1,24 +1,17 @@
 #!/usr/bin/env python
-#                   ,*++++++*,                ,*++++++*,
-#                *++.        .+++          *++.        .++*
-#              *+*     ,++++*   *+*      *+*   ,++++,     *+*
-#             ,+,   .++++++++++* ,++,,,,*+, ,++++++++++.   *+,
-#             *+.  .++++++++++++..++    *+.,++++++++++++.  .+*
-#             .+*   ++++++++++++.*+,    .+*.++++++++++++   *+,
-#              .++   *++++++++* ++,      .++.*++++++++*   ++,
-#               ,+++*.    . .*++,          ,++*.      .*+++*
-#              *+,   .,*++**.                  .**++**.   ,+*
-#             .+*                                          *+,
-#             *+.                   Coqui                  .+*
-#             *+*              +++   TTS  +++              *+*
-#             .+++*.            .          .             *+++.
-#              ,+* *+++*...                       ...*+++* *+,
-#               .++.    .""""+++++++****+++++++"""".     ++.
-#                 ,++.                                .++,
-#                   .++*                            *++.
-#                       *+++,                  ,+++*
-#                           .,*++++::::::++++*,.
-#                                  ``````
+#
+# #  ,ggg,         ,gg                              ,ggg, ,ggg,_,ggg,                                                     
+# dP""Y8a       ,8P                ,dPYb,        dP""Y8dP""Y88P""Y8b                                               I8   
+# Yb, `88       d8'                IP'`Yb        Yb, `88'  `88'  `88                                               I8   
+#  `"  88       88                 I8  8I         `"  88    88    88                                            88888888
+#      88       88                 I8  8'             88    88    88                                               I8   
+#      I8       8I,ggg,   ,gggggg, I8 dP      ,gggg,gg88    88    88   ,gggg,gg  ,ggg,,ggg,   ,ggg,   ,ggg,,ggg,   I8   
+#      `8,     ,8i8" "8i  dP""""8I I8dP   88gdP"  "Y8I88    88    88  dP"  "Y8I ,8" "8P" "8, i8" "8i ,8" "8P" "8,  I8   
+#       Y8,   ,8PI8, ,8I ,8'    8I I8P    8Ii8'    ,8I88    88    88 i8'    ,8I I8   8I   8I I8, ,8I I8   8I   8I ,I8,  
+#        Yb,_,dP `YbadP',dP     Y8,d8b,  ,8,d8,   ,d8b88    88    Y8,d8,   ,d8b,dP   8I   Yb,`YbadP',dP   8I   Yb,d88b, 
+#         "Y8P" 888P"Y888P      `Y8P'"Y88P"P"Y8888P"`Y88    88    `YP"Y8888P"`Y8P'   8I   `Y888P"Y888P'   8I   `Y8P""Y8 
+#
+#                                                    VerbaManent TTS
 
 import os
 import subprocess
@@ -80,10 +73,9 @@ exts = [
 setup(
     name="TTS",
     version=version,
-    url="https://github.com/coqui-ai/TTS",
-    author="Eren Gölge",
-    author_email="egolge@coqui.ai",
-    description="Deep learning for Text to Speech by Coqui.",
+    url="https://github.com/giordebug/verbamanent",
+    author="Michele Giordano",
+    description="VerbaManent: Deep learning for Text to Speech.",
     long_description=README,
     long_description_content_type="text/markdown",
     license="MPL-2.0",
@@ -100,10 +92,8 @@ setup(
         ]
     },
     project_urls={
-        "Documentation": "https://github.com/coqui-ai/TTS/wiki",
-        "Tracker": "https://github.com/coqui-ai/TTS/issues",
-        "Repository": "https://github.com/coqui-ai/TTS",
-        "Discussions": "https://github.com/coqui-ai/TTS/discussions",
+        "Documentation": "https://github.com/giordebug/verbamanent/wiki",
+        "Repository": "https://github.com/giordebug/verbamanent",
     },
     cmdclass={
         "build_py": build_py,

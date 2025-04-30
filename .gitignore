@@ -167,6 +167,6 @@ internal/*
 *_phoneme.npy
 wandb
 depot/*
-coqui_recipes/*
+verbamanent_recipes/*
 local_scripts/*
-coqui_demos/*
+verbamanent_demos/*

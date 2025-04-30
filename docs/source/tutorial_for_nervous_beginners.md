@@ -11,7 +11,7 @@ $ pip install TTS
 Developer friendly installation.
 
 ```bash
-$ git clone https://github.com/coqui-ai/TTS
+$ git clone https://github.com/giordebug/verbamanent
 $ cd TTS
 $ pip install -e .
 ```
@@ -109,7 +109,7 @@ $ tts -h # see the help
 $ tts --list_models  # list the available models.
 ```
 
-![cli.gif](https://github.com/coqui-ai/TTS/raw/main/images/tts_cli.gif)
+![cli.gif](https://github.com/giordebug/verbamanent/raw/main/images/tts_cli.gif)
 
 
 You can call `tts-server` to start a local demo server that you can open it on
@@ -119,4 +119,4 @@ your favorite web browser and 🗣️.
 $ tts-server -h # see the help
 $ tts-server --list_models  # list the available models.
 ```
-![server.gif](https://github.com/coqui-ai/TTS/raw/main/images/demo_server.gif)
+![server.gif](https://github.com/giordebug/verbamanent/raw/main/images/demo_server.gif)

@@ -222,7 +222,7 @@ class TTS(nn.Module):
         **kwargs,
     ) -> None:
         """Check if the arguments are valid for the model."""
-        # check for the coqui tts models
+        # check for tts models
         if self.is_multi_speaker and (speaker is None and speaker_wav is None):
             raise ValueError("Model is multi-speaker but no `speaker` is provided.")
         if self.is_multi_lingual and language is None:

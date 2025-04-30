@@ -49,7 +49,7 @@ The format above is taken from widely-used the [LJSpeech](https://keithito.com/L
 
 Your dataset should have good coverage of the target language. It should cover the phonemic variety, exceptional sounds and syllables. This is extremely important for especially non-phonemic languages like English.
 
-For more info about dataset qualities and properties check our [post](https://github.com/coqui-ai/TTS/wiki/What-makes-a-good-TTS-dataset).
+For more info about dataset qualities and properties check our [post](https://github.com/giordebug/verbamanent/wiki/What-makes-a-good-TTS-dataset).
 
 ## Using Your Dataset in 🐸TTS
 

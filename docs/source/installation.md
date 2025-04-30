@@ -15,7 +15,7 @@ pip install TTS  # from PyPI
 Or install from Github:
 
 ```bash
-pip install git+https://github.com/coqui-ai/TTS  # from Github
+pip install git+https://github.com/giordebug/verbamanent  # from Github
 ```
 
 ## Installing From Source
@@ -23,7 +23,7 @@ pip install git+https://github.com/coqui-ai/TTS  # from Github
 This is recommended for development and more control over 🐸TTS.
 
 ```bash
-git clone https://github.com/coqui-ai/TTS/
+git clone https://github.com/giordebug/verbamanent/
 cd TTS
 make system-deps  # only on Linux systems.
 make install
