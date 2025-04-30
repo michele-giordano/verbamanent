@@ -26,17 +26,6 @@ Codebase restructuring and architectural improvements will begin in future versi
 
 ---
 
-## 📦 Quick Installation
-
-From source (development mode):
-
-```bash
-git clone https://github.com/giordebug/verbamanent.git
-cd verbamanent
-pip install -e .[all,dev,notebooks]
-
----
-
 ## 🛠 Key Features
 
 - Multi-speaker and multi-language synthesis
@@ -55,3 +44,16 @@ This project is distributed under the Mozilla Public License v2.0 (MPL-2.0).
 
 ## 📬 Contact
 For questions, contributions, or feedback, feel free to open an issue or contact the current maintainer directly.
+
+## 📦 Quick Installation
+
+From source (development mode):
+
+```bash
+git clone https://github.com/giordebug/verbamanent.git
+cd verbamanent
+pip install -e .[all,dev,notebooks]
+
+---
+
+
