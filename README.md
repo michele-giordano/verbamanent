@@ -46,7 +46,7 @@ For questions, contributions, or feedback, feel free to open an issue or contact
 From source (development mode):
 
 ```bash
-git clone https://github.com/giordebug/verbamanent.git
+git clone https://github.com/michele-giordano/verbamanent.git
 cd verbamanent
 pip install -e .[all,dev,notebooks]
 
